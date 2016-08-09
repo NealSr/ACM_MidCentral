@@ -1,0 +1,9 @@
+{
+  "Safecracker": {
+    "short_description": "Klein safe puzzle from ACM Mid-Central 2002",
+    "long_description": "http://www.icpc-midcentral.us/archives/2002/safe/safe.html",
+    "source": "http://www.icpc-midcentral.us/archives/2002/browse.html",
+    "input": "http://www.icpc-midcentral.us/archives/2002/safe/safe.in",
+    "output": "http://www.icpc-midcentral.us/archives/2002/safe/safe.out"
+  }
+}

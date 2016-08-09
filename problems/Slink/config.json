@@ -1,0 +1,9 @@
+{
+  "Slink": {
+    "short_description": "Slitherlink puzzle from ACM Mid-Central 2007",
+    "long_description": "http://www.icpc-midcentral.us/archives/2007/mcpc2007/slink/slink.html",
+    "source": "http://www.icpc-midcentral.us/archives/2007/mcpc2007/browse.html",
+    "input": "http://www.icpc-midcentral.us/archives/2007/mcpc2007/slink/slink.in",
+    "output": "http://www.icpc-midcentral.us/archives/2007/mcpc2007/slink/slink.out"
+  }
+}
